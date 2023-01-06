@@ -1,0 +1,160 @@
+animal;weight;movement_type;highspeed
+House sparrow;0.04;flying;46
+Pelican;7.8;flying;65
+Vulture;11;flying;88
+Pigeon;0.35;flying;80
+Puffin;0.58;flying;88
+Barn Owl;0.5;flying;80
+Magpie;0.23;flying;32
+Hummingbird;0.012;flying;48
+Robin;0.019;flying;30
+Great tit;0.018;flying;33
+Wandering albatross;16;flying;40
+Spur-winged goose;3.9;flying;143
+Domestic turkey;39;flying;80
+Mute swan;23;flying;96
+Great bustard;21;flying;98
+Andean condor;15;flying;80
+Red-breasted Merganser;1;flying;129
+California Condor;9;flying;90
+Frigatebird;1.5;flying;153
+Mallard;1.1;flying;105
+Eider Duck;2.2;flying;113
+Red-breasted Merganser;1;flying;129
+Red-Tailed Hawk;1.1;flying;195
+Peregrine falcon;1.5;flying;110
+Saker falcon;1.3;flying;150
+Dalmatian pelican;11.5;flying;56
+Parrot;0.2;flying;80
+Aye-Aye;2.5;climbing;32
+Baboon;14;climbing;48
+Chimpanzee;45;climbing;40
+Gibbon;8;climbing;55
+Gorilla;190;climbing;40
+Howler Monkey;10;climbing;29
+Kinkajou;3;climbing;20
+Lemur;2.2;climbing;32
+Mandrill;20;climbing;40
+Mountain Gorilla;150;climbing;40
+Mouse Lemur;0.005;climbing;32
+Orangutan;70;climbing;16
+Spider Monkey;9;climbing;56
+African Elephant;4500;running;40
+African Lion;160;running;80
+African Wild Dog;22;running;70
+Arabian Camel;450;running;65
+Arctic Fox;5.4;running;50
+Arctic Hare;5;running;60
+Armadillo;4.5;running;48
+Asian Elephant;3400;running;24
+Asian Lion;150;running;60
+Bactrian Camel;600;running;65
+Bengal Tiger;130;running;65
+Black Bear;170;running;56
+Black Rhinoceros;1100;running;55
+Bobcat;11;running;48
+Brown Bear;340;running;56
+Caribou;130;running;70
+Cheetah;42;running;130
+Chipmunk;0.05;running;34
+Clouded Leopard;18;running;65
+Cottontail Rabbit;1;running;48
+Cougar;60;running;80
+Coyote;12;running;69
+Deer;100;running;80
+Dingo;12.5;running;48
+Domestic Cat;4;running;48
+Domestic Dog;20;running;60
+Elk;270;running;56
+Fennec Fox;1;running;40
+Fossa;10;running;55
+Giraffe;1200;running;60
+Groundhog;4;running;16
+Hare;4;running;80
+Gazelle;40;running;100
+Hedgehog;0.8;running;6.5
+Hippopotamus;1500;running;48
+Horse;300;running;88
+Impala;55;running;90
+Indian Rhinoceros;1900;running;55
+Jaguar;72;running;80
+Leopard;27;running;58
+Llama;160;running;64
+Lynx;10;running;80
+Meerkat;0.7;running;32
+Mongoose;2.5;running;32
+Mountain Lion;65;running;80
+North American River Otter;8;running;24
+Ocelot;12;running;62
+Opossum;5;running;6.5
+Polar Bear;300;running;40
+Prairie Dog;1.3;running;56
+Pronghorn;50;running;98
+Raccoon;6;running;24
+Red Fox;8;running;50
+Red Panda;4.5;running;38
+Siberian Tiger;250;running;96
+Skunk;2;running;16
+Snow Leopard;41;running;88
+Squirrel;0.5;running;32
+Sumatran Rhinoceros;850;running;55
+Sumatran Tiger;120;running;96
+Tapir;250;running;48
+Water Buffalo;400;running;48
+White Rhinoceros;2000;running;50
+Wolf;50;running;55
+Wombat;27;running;40
+Zebra;320;running;65
+Alligator;405;running;17
+Groin crocodile;700;running;17
+Bearded dragons;0.38;running;40
+Chameleon;1.005;running;21
+Frilled lizard;0.75;running;48
+Iguana;9;running;35
+Black mamba;1.6;running;24
+Rattlesnake;4.5;running;4
+Kiwi;2.3;running;19
+Ostrich;160;running;70
+Scorpion;0.055;running;19
+Cockroach;0.001;running;5.4
+Beaver;22;swimming;55
+Beluga Whale;1400;swimming;22
+Blue Whale;140000;swimming;50
+Bottlenose Doplhin;400;swimming;35
+California Sea Lion;200;swimming;40
+Elephant Seal;1360;swimming;16
+Fur Seal;55;swimming;25
+Gray Whale;27000;swimming;16
+Hippopotamus;1500;swimming;8
+Humpback Whale;27500;swimming;16.5
+Leopard Seal;350;swimming;40
+Manatee;600;swimming;30
+Narwhal;940;swimming;6
+North American River Otter;8;swimming;10
+Orca;3500;swimming;56
+Platypus;1.5;swimming;35
+Right Whale;55000;swimming;9.3
+Ringed Seal;71;swimming;30
+Sea Otter;30;swimming;9
+Walrus;1000;swimming;35
+Axolotl;0.13;swimming;17
+Bullfrog;1.15;swimming;17
+Alligator;405;swimming;32
+Groin crocodile;700;swimming;32
+Loggerhead turtle;110;swimming;30
+Spectacled penguin;2.75;swimming;20
+Imperial penguin;45;swimming;15
+Seahorse;0.014;swimming;1.5
+Electric eel;20;swimming;8
+Hammerhead shark;340;swimming;40
+Giant manta;2400;swimming;10.5
+Whale shark;16000;swimming;5
+Black marlin;750;swimming;132
+Sailfish;90;swimming;110
+Swordfish;650;swimming;97
+Yellowfin tuna;190;swimming;76
+Shortfin mako shark;570;swimming;72
+Great white Shark;2000;swimming;50
+Leopard seal;600;swimming;37
+Basking shark;5200;swimming;2.5
+Ocean sunfish;2300;swimming;3.2
